@@ -1,0 +1,8 @@
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\bin\Debug\DriverLicenseDecoder.pdb
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\obj\Debug\DriverLicenseDecoder.pdb
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\obj\Debug\DriverLicenseDecoder.csprojResolveAssemblyReference.cache
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\bin\Debug\DriverLicenseDecoder.dll.config
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\bin\Debug\DriverLicenseDecoder.dll
+C:\Users\Twins\documents\visual studio 2013\Projects\DriverLicenseDecoder\DriverLicenseDecoder\obj\Debug\DriverLicenseDecoder.dll
