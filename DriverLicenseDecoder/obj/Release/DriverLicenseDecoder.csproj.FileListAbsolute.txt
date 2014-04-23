@@ -3,6 +3,5 @@ C:\Users\Twins\Documents\codes\driver_license_decoder\DriverLicenseDecoder\bin\R
 C:\Users\Twins\Documents\codes\driver_license_decoder\DriverLicenseDecoder\bin\Release\DriverLicenseDecoder.pdb
 C:\Users\Twins\Documents\codes\driver_license_decoder\DriverLicenseDecoder\bin\Release\Newtonsoft.Json.dll
 C:\Users\Twins\Documents\codes\driver_license_decoder\DriverLicenseDecoder\bin\Release\Newtonsoft.Json.xml
-C:\Users\Twins\Documents\codes\driver_license_decoder\DriverLicenseDecoder\obj\Release\DriverLicenseDecoder.csprojResolveAssemblyReference.cache
 C:\Users\Twins\Documents\codes\driver_license_decoder\DriverLicenseDecoder\obj\Release\DriverLicenseDecoder.dll
 C:\Users\Twins\Documents\codes\driver_license_decoder\DriverLicenseDecoder\obj\Release\DriverLicenseDecoder.pdb
