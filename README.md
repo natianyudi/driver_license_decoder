@@ -1,10 +1,12 @@
-# Driver License Barcode Decoder (Java)
+# Driver License Barcode Decoder (.NET)
 
-Java library to decode barcode string from driver's license that follows the [American Association of Motor Vehicle Administrators(aamva)](http://www.aamva.org/) standard.
+This is a fork to [https://github.com/tianhsky/driver_license_decoder](https://github.com/tianhsky/driver_license_decoder)
+
+.NET library to decode barcode string from driver's license that follows the [American Association of Motor Vehicle Administrators(aamva)](http://www.aamva.org/) standard.
 
 ## Requirements
 
-- JRE 1.6+
+- .NET 4.0+
 
 ## How to use
 
@@ -21,7 +23,7 @@ Java library to decode barcode string from driver's license that follows the [Am
 
 ## Keywords
 
-- java, android, dln, dmv, driver's license, decoder, barcode, scanner
+- .NET, android, dln, dmv, driver's license, decoder, barcode, scanner
 
 ## References
 

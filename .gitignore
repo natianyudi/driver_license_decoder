@@ -19,3 +19,4 @@ tmp/attachment_fu/
 *~
 *.orig
 bin/
+DriverLicenseDecoder/bin/Debug/*
